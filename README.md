@@ -10,6 +10,8 @@ Build of the WLED Garbage Truck
 - Solder Leds to Wemos / Esp chip
 - Install WLED firmware on ESP
 - Create Presets for garbage colors in WLED
+- Install LEDS in Garbage Truck
+- Add WLED entity to HA
 
 ## Result
 ![image](https://user-images.githubusercontent.com/100353268/212061453-a9b18bc7-ce81-4a1b-bd66-6e9ed5127e6b.png)

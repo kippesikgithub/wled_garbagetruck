@@ -1,5 +1,5 @@
-# wled_garbagetruck
-Build of the WLED Garbage Truck
+# WLED Garbage Truck
+Build of the WLED Garbage Truck that show the color of the bin that needs to be put outside
 ## Needed Parts
 - Garbage Truck 3d Print https://www.thingiverse.com/thing:3452047
 - Wemos d1 mini (or other esp chip)
